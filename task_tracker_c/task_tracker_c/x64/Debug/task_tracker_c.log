@@ -1,0 +1,4 @@
+﻿  tasktracker.c
+C:\Users\selin\source\repos\task_tracker_c\task_tracker_c\tasktracker.c(77,11): warning C4477: 'scanf_s' : '%99s' biçim dizesi 'unsigned int' türü bir bağımsız değişken gerektirir, ancak 2 değişen sayıda bağımsız değişkenin türü 'unsigned __int64'
+C:\Users\selin\source\repos\task_tracker_c\task_tracker_c\tasktracker.c(85,11): warning C4477: 'scanf_s' : '%19s' biçim dizesi 'unsigned int' türü bir bağımsız değişken gerektirir, ancak 2 değişen sayıda bağımsız değişkenin türü 'unsigned __int64'
+  task_tracker_c.vcxproj -> C:\Users\selin\source\repos\task_tracker_c\x64\Debug\task_tracker_c.exe
